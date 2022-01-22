@@ -348,8 +348,10 @@
 "Assets/Libs/NavMeshComponents/Scripts/NavMeshModifier.cs"
 "Assets/Libs/NavMeshComponents/Scripts/NavMeshModifierVolume.cs"
 "Assets/Libs/NavMeshComponents/Scripts/NavMeshSurface.cs"
+"Assets/Scripts/DealDamage.cs"
 "Assets/Scripts/EnemyAI.cs"
 "Assets/Scripts/MouseLook.cs"
+"Assets/Scripts/PlayerHealth.cs"
 "Assets/Scripts/PlayerMovement.cs"
 -langversion:9.0
 
