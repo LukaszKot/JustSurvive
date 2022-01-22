@@ -17,7 +17,6 @@ public class DealDamage : MonoBehaviour
     {
         while (true)
         {
-            Debug.Log("next loop");
             playerHealth.health -= dmgTick;
             dmgTick *= 2;
             yield return new WaitForSeconds(timeTick);
