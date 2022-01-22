@@ -2684,3 +2684,27 @@ Received Import Request.
   path: Assets/Prefabs/UI.prefab
   artifactKey: Guid(0709acda69da64c199bc1630abe3e648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/UI.prefab using Guid(0709acda69da64c199bc1630abe3e648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c78e920b2dc4615c76ee38ea7362b8') in 0.021781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 312.258807 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(ff0f5b40d49e24f16a5ea8220220ae57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(ff0f5b40d49e24f16a5ea8220220ae57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4412014c88dc44ae01d99a3eda2e51') in 0.050892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.939061 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(bbc1bbbe44c234908b1ecd6f511581f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(bbc1bbbe44c234908b1ecd6f511581f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fa78d18519410ff33616af46576494') in 0.001944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 250.695026 seconds.
+  path: Assets/Prefabs/Enemy.prefab
+  artifactKey: Guid(93592312c7b6d4f2cb5690bd5abff8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy.prefab using Guid(93592312c7b6d4f2cb5690bd5abff8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb5041b61b2f378a0881f11dbf58ce4') in 0.002807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 89.064099 seconds.
+  path: Assets/Prefabs/Enemy.prefab
+  artifactKey: Guid(93592312c7b6d4f2cb5690bd5abff8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy.prefab using Guid(93592312c7b6d4f2cb5690bd5abff8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e6cf9cdfb7f52bfb0fd0b5e08b0525') in 0.011558 seconds 
